@@ -1,0 +1,8 @@
+{
+  "name": "aeg-microservice-gateway",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
